@@ -1,0 +1,131 @@
+progress: 1/None, correct:  1/1, verified: 1/1, unsafe: 0/1,  time: 0.031; 0.031; 0.031
+progress: 2/None, correct:  2/2, verified: 2/2, unsafe: 0/2,  time: 0.006; 0.018; 0.037
+progress: 3/None, correct:  3/3, verified: 3/3, unsafe: 0/3,  time: 0.018; 0.018; 0.055
+progress: 4/None, correct:  4/4, verified: 4/4, unsafe: 0/4,  time: 0.016; 0.018; 0.070
+progress: 5/None, correct:  5/5, verified: 5/5, unsafe: 0/5,  time: 0.020; 0.018; 0.091
+progress: 6/None, correct:  6/6, verified: 6/6, unsafe: 0/6,  time: 0.018; 0.018; 0.108
+progress: 7/None, correct:  7/7, verified: 7/7, unsafe: 0/7,  time: 0.015; 0.018; 0.123
+progress: 8/None, correct:  8/8, verified: 8/8, unsafe: 0/8,  time: 0.017; 0.018; 0.141
+progress: 9/None, correct:  9/9, verified: 9/9, unsafe: 0/9,  time: 0.018; 0.018; 0.159
+img 9 not considered, incorrectly classified
+progress: 10/None, correct:  9/10, verified: 9/9, unsafe: 0/9,  time: 0.001; 0.018; 0.159
+progress: 11/None, correct:  10/11, verified: 10/10, unsafe: 0/10,  time: 0.018; 0.018; 0.177
+progress: 12/None, correct:  11/12, verified: 11/11, unsafe: 0/11,  time: 0.018; 0.018; 0.195
+progress: 13/None, correct:  12/13, verified: 11/12, unsafe: 0/12,  time: 0.018; 0.018; 0.213
+progress: 14/None, correct:  13/14, verified: 12/13, unsafe: 0/13,  time: 0.005; 0.017; 0.218
+progress: 15/None, correct:  14/15, verified: 13/14, unsafe: 0/14,  time: 0.019; 0.017; 0.237
+progress: 16/None, correct:  15/16, verified: 14/15, unsafe: 0/15,  time: 0.018; 0.017; 0.255
+img 16 not considered, incorrectly classified
+progress: 17/None, correct:  15/17, verified: 14/15, unsafe: 0/15,  time: 0.001; 0.017; 0.255
+progress: 18/None, correct:  16/18, verified: 15/16, unsafe: 0/16,  time: 0.018; 0.017; 0.273
+progress: 19/None, correct:  17/19, verified: 16/17, unsafe: 0/17,  time: 0.015; 0.017; 0.288
+progress: 20/None, correct:  18/20, verified: 17/18, unsafe: 0/18,  time: 0.017; 0.017; 0.305
+progress: 21/None, correct:  19/21, verified: 18/19, unsafe: 0/19,  time: 0.017; 0.017; 0.322
+progress: 22/None, correct:  20/22, verified: 19/20, unsafe: 0/20,  time: 0.013; 0.017; 0.335
+img 22 not considered, incorrectly classified
+progress: 23/None, correct:  20/23, verified: 19/20, unsafe: 0/20,  time: 0.001; 0.017; 0.335
+progress: 24/None, correct:  21/24, verified: 20/21, unsafe: 0/21,  time: 0.017; 0.017; 0.353
+img 24 not considered, incorrectly classified
+progress: 25/None, correct:  21/25, verified: 20/21, unsafe: 0/21,  time: 0.001; 0.017; 0.353
+img 25 not considered, incorrectly classified
+progress: 26/None, correct:  21/26, verified: 20/21, unsafe: 0/21,  time: 0.001; 0.017; 0.353
+progress: 27/None, correct:  22/27, verified: 20/22, unsafe: 0/22,  time: 0.017; 0.017; 0.370
+img 27 not considered, incorrectly classified
+progress: 28/None, correct:  22/28, verified: 20/22, unsafe: 0/22,  time: 0.001; 0.017; 0.370
+progress: 29/None, correct:  23/29, verified: 21/23, unsafe: 0/23,  time: 0.017; 0.017; 0.387
+progress: 30/None, correct:  24/30, verified: 22/24, unsafe: 0/24,  time: 0.018; 0.017; 0.405
+img 30 not considered, incorrectly classified
+progress: 31/None, correct:  24/31, verified: 22/24, unsafe: 0/24,  time: 0.001; 0.017; 0.405
+img 31 not considered, incorrectly classified
+progress: 32/None, correct:  24/32, verified: 22/24, unsafe: 0/24,  time: 0.001; 0.017; 0.405
+img 32 not considered, incorrectly classified
+progress: 33/None, correct:  24/33, verified: 22/24, unsafe: 0/24,  time: 0.001; 0.017; 0.405
+img 33 not considered, incorrectly classified
+progress: 34/None, correct:  24/34, verified: 22/24, unsafe: 0/24,  time: 0.001; 0.017; 0.405
+progress: 35/None, correct:  25/35, verified: 23/25, unsafe: 0/25,  time: 0.017; 0.017; 0.422
+img 35 not considered, incorrectly classified
+progress: 36/None, correct:  25/36, verified: 23/25, unsafe: 0/25,  time: 0.001; 0.017; 0.422
+img 36 not considered, incorrectly classified
+progress: 37/None, correct:  25/37, verified: 23/25, unsafe: 0/25,  time: 0.001; 0.017; 0.422
+img 37 not considered, incorrectly classified
+progress: 38/None, correct:  25/38, verified: 23/25, unsafe: 0/25,  time: 0.001; 0.017; 0.422
+progress: 39/None, correct:  26/39, verified: 24/26, unsafe: 0/26,  time: 0.018; 0.017; 0.440
+progress: 40/None, correct:  27/40, verified: 25/27, unsafe: 0/27,  time: 0.018; 0.017; 0.458
+img 40 not considered, incorrectly classified
+progress: 41/None, correct:  27/41, verified: 25/27, unsafe: 0/27,  time: 0.001; 0.017; 0.458
+progress: 42/None, correct:  28/42, verified: 26/28, unsafe: 0/28,  time: 0.017; 0.017; 0.475
+progress: 43/None, correct:  29/43, verified: 27/29, unsafe: 0/29,  time: 0.015; 0.017; 0.490
+img 43 not considered, incorrectly classified
+progress: 44/None, correct:  29/44, verified: 27/29, unsafe: 0/29,  time: 0.001; 0.017; 0.490
+img 44 not considered, incorrectly classified
+progress: 45/None, correct:  29/45, verified: 27/29, unsafe: 0/29,  time: 0.001; 0.017; 0.490
+progress: 46/None, correct:  30/46, verified: 28/30, unsafe: 0/30,  time: 0.017; 0.017; 0.507
+progress: 47/None, correct:  31/47, verified: 29/31, unsafe: 0/31,  time: 0.017; 0.017; 0.524
+img 47 not considered, incorrectly classified
+progress: 48/None, correct:  31/48, verified: 29/31, unsafe: 0/31,  time: 0.001; 0.017; 0.524
+progress: 49/None, correct:  32/49, verified: 30/32, unsafe: 0/32,  time: 0.019; 0.017; 0.543
+progress: 50/None, correct:  33/50, verified: 31/33, unsafe: 0/33,  time: 0.020; 0.017; 0.563
+progress: 51/None, correct:  34/51, verified: 32/34, unsafe: 0/34,  time: 0.015; 0.017; 0.578
+progress: 52/None, correct:  35/52, verified: 33/35, unsafe: 0/35,  time: 0.020; 0.017; 0.597
+img 52 not considered, incorrectly classified
+progress: 53/None, correct:  35/53, verified: 33/35, unsafe: 0/35,  time: 0.001; 0.017; 0.597
+img 53 not considered, incorrectly classified
+progress: 54/None, correct:  35/54, verified: 33/35, unsafe: 0/35,  time: 0.001; 0.017; 0.597
+progress: 55/None, correct:  36/55, verified: 34/36, unsafe: 0/36,  time: 0.005; 0.017; 0.603
+progress: 56/None, correct:  37/56, verified: 35/37, unsafe: 0/37,  time: 0.016; 0.017; 0.619
+progress: 57/None, correct:  38/57, verified: 36/38, unsafe: 0/38,  time: 0.015; 0.017; 0.634
+img 57 not considered, incorrectly classified
+progress: 58/None, correct:  38/58, verified: 36/38, unsafe: 0/38,  time: 0.001; 0.017; 0.634
+img 58 not considered, incorrectly classified
+progress: 59/None, correct:  38/59, verified: 36/38, unsafe: 0/38,  time: 0.001; 0.017; 0.634
+img 59 not considered, incorrectly classified
+progress: 60/None, correct:  38/60, verified: 36/38, unsafe: 0/38,  time: 0.001; 0.017; 0.634
+progress: 61/None, correct:  39/61, verified: 37/39, unsafe: 0/39,  time: 0.018; 0.017; 0.652
+progress: 62/None, correct:  40/62, verified: 38/40, unsafe: 0/40,  time: 0.017; 0.017; 0.669
+progress: 63/None, correct:  41/63, verified: 39/41, unsafe: 0/41,  time: 0.016; 0.017; 0.685
+img 63 not considered, incorrectly classified
+progress: 64/None, correct:  41/64, verified: 39/41, unsafe: 0/41,  time: 0.001; 0.017; 0.685
+progress: 65/None, correct:  42/65, verified: 40/42, unsafe: 0/42,  time: 0.021; 0.017; 0.706
+progress: 66/None, correct:  43/66, verified: 41/43, unsafe: 0/43,  time: 0.019; 0.017; 0.725
+progress: 67/None, correct:  44/67, verified: 41/44, unsafe: 0/44,  time: 0.016; 0.017; 0.741
+img 67 not considered, incorrectly classified
+progress: 68/None, correct:  44/68, verified: 41/44, unsafe: 0/44,  time: 0.001; 0.017; 0.741
+progress: 69/None, correct:  45/69, verified: 42/45, unsafe: 0/45,  time: 0.017; 0.017; 0.758
+img 69 not considered, incorrectly classified
+progress: 70/None, correct:  45/70, verified: 42/45, unsafe: 0/45,  time: 0.001; 0.017; 0.758
+progress: 71/None, correct:  46/71, verified: 42/46, unsafe: 0/46,  time: 0.019; 0.017; 0.777
+progress: 72/None, correct:  47/72, verified: 43/47, unsafe: 0/47,  time: 0.019; 0.017; 0.796
+progress: 73/None, correct:  48/73, verified: 44/48, unsafe: 0/48,  time: 0.016; 0.017; 0.811
+progress: 74/None, correct:  49/74, verified: 45/49, unsafe: 0/49,  time: 0.005; 0.017; 0.817
+progress: 75/None, correct:  50/75, verified: 46/50, unsafe: 0/50,  time: 0.016; 0.017; 0.833
+progress: 76/None, correct:  51/76, verified: 46/51, unsafe: 0/51,  time: 0.018; 0.017; 0.851
+img 76 not considered, incorrectly classified
+progress: 77/None, correct:  51/77, verified: 46/51, unsafe: 0/51,  time: 0.001; 0.017; 0.851
+progress: 78/None, correct:  52/78, verified: 47/52, unsafe: 0/52,  time: 0.017; 0.017; 0.869
+progress: 79/None, correct:  53/79, verified: 48/53, unsafe: 0/53,  time: 0.017; 0.017; 0.886
+progress: 80/None, correct:  54/80, verified: 49/54, unsafe: 0/54,  time: 0.005; 0.017; 0.891
+progress: 81/None, correct:  55/81, verified: 50/55, unsafe: 0/55,  time: 0.016; 0.016; 0.907
+progress: 82/None, correct:  56/82, verified: 51/56, unsafe: 0/56,  time: 0.016; 0.016; 0.923
+progress: 83/None, correct:  57/83, verified: 52/57, unsafe: 0/57,  time: 0.015; 0.016; 0.939
+progress: 84/None, correct:  58/84, verified: 53/58, unsafe: 0/58,  time: 0.006; 0.016; 0.945
+progress: 85/None, correct:  59/85, verified: 54/59, unsafe: 0/59,  time: 0.015; 0.016; 0.960
+img 85 not considered, incorrectly classified
+progress: 86/None, correct:  59/86, verified: 54/59, unsafe: 0/59,  time: 0.001; 0.016; 0.960
+img 86 not considered, incorrectly classified
+progress: 87/None, correct:  59/87, verified: 54/59, unsafe: 0/59,  time: 0.001; 0.016; 0.960
+img 87 not considered, incorrectly classified
+progress: 88/None, correct:  59/88, verified: 54/59, unsafe: 0/59,  time: 0.001; 0.016; 0.960
+progress: 89/None, correct:  60/89, verified: 55/60, unsafe: 0/60,  time: 0.017; 0.016; 0.977
+progress: 90/None, correct:  61/90, verified: 56/61, unsafe: 0/61,  time: 0.017; 0.016; 0.995
+progress: 91/None, correct:  62/91, verified: 57/62, unsafe: 0/62,  time: 0.015; 0.016; 1.010
+img 91 not considered, incorrectly classified
+progress: 92/None, correct:  62/92, verified: 57/62, unsafe: 0/62,  time: 0.001; 0.016; 1.010
+progress: 93/None, correct:  63/93, verified: 58/63, unsafe: 0/63,  time: 0.005; 0.016; 1.015
+progress: 94/None, correct:  64/94, verified: 59/64, unsafe: 0/64,  time: 0.016; 0.016; 1.032
+progress: 95/None, correct:  65/95, verified: 60/65, unsafe: 0/65,  time: 0.019; 0.016; 1.051
+progress: 96/None, correct:  66/96, verified: 61/66, unsafe: 0/66,  time: 0.021; 0.016; 1.072
+progress: 97/None, correct:  67/97, verified: 62/67, unsafe: 0/67,  time: 0.021; 0.016; 1.092
+progress: 98/None, correct:  68/98, verified: 63/68, unsafe: 0/68,  time: 0.015; 0.016; 1.107
+progress: 99/None, correct:  69/99, verified: 64/69, unsafe: 0/69,  time: 0.005; 0.016; 1.112
+progress: 100/None, correct:  70/100, verified: 65/70, unsafe: 0/70,  time: 0.016; 0.016; 1.128
+analysis precision  65 /  70
