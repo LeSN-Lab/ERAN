@@ -1,0 +1,8 @@
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/gpupoly.dir
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/testGPUPoly.dir
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/edit_cache.dir
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/rebuild_cache.dir
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/list_install_components.dir
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/install.dir
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/install/local.dir
+/home/lesninha/Documents/AI2/ERAN/ELINA/gpupoly/CMakeFiles/install/strip.dir
